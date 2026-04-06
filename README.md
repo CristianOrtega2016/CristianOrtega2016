@@ -26,13 +26,15 @@ I am currently focused on:
 - DApp Architecture
 
 ### Frontend
-- React (learning phase)
+- React
 - JavaScript / TypeScript
 - HTML, CSS
 
 ### AI & Automation
 - Python
-- AI Agents (experiments)
+- AI Agents (learning phase)
+- RAG (learning phase)
+- Vectors (learning phase)
 - Prompt Engineering
 
 ### Other
@@ -69,15 +71,15 @@ I am currently focused on:
 
 ---
 
-### 🧠 AI (Private)
-> Python-based AI experiments
+### 🧠 AI 
+> Python-based AI (learning phase)
 
 - AI agents for automation and learning  
 - Early-stage research and development  
 
 ---
 
-### 👶 Förskollärare Coach (Private)
+### 👶 Förskollärare Coach
 > Job-search tool for preschool teachers (TypeScript)
 
 - Focused on helping users find jobs  
@@ -85,7 +87,7 @@ I am currently focused on:
 
 ---
 
-### 📚 Learn Solidity (Private)
+### 📚 Learn Solidity 
 > Personal learning repository
 
 - Smart contract practice  
