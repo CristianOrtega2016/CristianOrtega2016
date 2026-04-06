@@ -138,6 +138,7 @@ I am currently focused on:
 
 - GitHub: https://github.com/CristianOrtega2016  
 - LinkedIn: www.linkedin.com/in/cristian-ortega-aab1523b5
+- Discord: cristian_ortega_2026
 
 ---
 
