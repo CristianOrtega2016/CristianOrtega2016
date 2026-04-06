@@ -126,7 +126,7 @@ I am currently focused on:
 ## 📫 Contact
 
 - GitHub: https://github.com/CristianOrtega2016  
-- LinkedIn: *(add your link here)*  
+- LinkedIn: www.linkedin.com/in/cristian-ortega-aab1523b5
 
 ---
 
