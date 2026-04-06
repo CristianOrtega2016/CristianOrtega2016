@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to my porfolio 👋
+🌱 I’m currently learning smart contracts with solidity and foundry. It's has been very interesting to go inside the blockchain and 
+
 
 <!--
 **CristianOrtega2016/CristianOrtega2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
