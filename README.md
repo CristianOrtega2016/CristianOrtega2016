@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Cristian Ortega
 
 💻 Web3 Developer | Solidity | AI Enthusiast  
-📍 Based in Sweden | Originally from Chile  
+📍 Based in Sweden 🇸🇪 | Originally from Chile 🇨🇱  
 
 ---
 
 ## 🚀 About Me
 
-I am a developer passionate about **Web3, Blockchain, and Artificial Intelligence**.  
-My journey started in **finance and accounting**, working at Citibank, and evolved into software development driven by curiosity and continuous learning.
+I am a developer transitioning from a strong background in **finance and accounting** (former Citibank professional) into **Web3 and Artificial Intelligence**.
+I specialize in building **smart contracts and decentralized applications (DApps)**, while also exploring how **AI agents** can automate workflows and enhance development.
 
 I am currently focused on:
 - 🔗 Smart Contract Development (Solidity)
@@ -47,6 +47,7 @@ I am currently focused on:
 ## 📂 Featured Projects
 
 ### 🎲 Raffle (Lottery DApp)
+🔗 https://github.com/CristianOrtega2016/Raffle
 > Solidity-based lottery using Chainlink VRF for randomness
 
 - Smart contract development  
@@ -56,6 +57,7 @@ I am currently focused on:
 ---
 
 ### 💰 Foundry Fund Me
+🔗 https://github.com/CristianOrtega2016/foundry-fund-me 
 > Learning project focused on Solidity and smart contract fundamentals
 
 - Built with Foundry  
@@ -64,6 +66,7 @@ I am currently focused on:
 ---
 
 ### 🤖 My Custom Chat GPT
+🔗 https://github.com/CristianOrtega2016/My_Custom_Chat_GTP
 > JavaScript-based AI project
 
 - Experimenting with AI integrations  
@@ -72,6 +75,7 @@ I am currently focused on:
 ---
 
 ### 🧠 AI 
+🔗 https://github.com/CristianOrtega2016/AI.git
 > Python-based AI (learning phase)
 
 - AI agents for automation and learning  
@@ -80,6 +84,7 @@ I am currently focused on:
 ---
 
 ### 👶 Förskollärare Coach
+🔗 https://github.com/CristianOrtega2016/F-rskoll-rare_Coach.git
 > Job-search tool for preschool teachers (TypeScript)
 
 - Focused on helping users find jobs  
@@ -88,6 +93,7 @@ I am currently focused on:
 ---
 
 ### 📚 Learn Solidity 
+🔗 https://github.com/CristianOrtega2016/Learn-Solidity.git
 > Personal learning repository
 
 - Smart contract practice  
@@ -98,9 +104,11 @@ I am currently focused on:
 ### 🛒 WebShop Projects (Java)
 
 #### WebShopProject
+🔗 https://github.com/CristianOrtega2016/WebShopProject
 > Java I/O programming project
 
 #### WebShopProjectJPA
+🔗 https://github.com/CristianOrtega2016/WebShopProjectJPA
 > Java project using JPA for persistence
 
 - Backend logic fundamentals  
@@ -109,6 +117,7 @@ I am currently focused on:
 ---
 
 ### 🌐 CV HTML
+🔗 https://github.com/CristianOrtega2016/CV_html
 > Basic frontend project
 
 - HTML, CSS, Flexbox  
