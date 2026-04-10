@@ -56,6 +56,19 @@ I am currently focused on:
 
 ---
 
+### 🎲 Platform Token ERC20 (DApp)
+
+🔗 https://github.com/CristianOrtega2016/
+🔗 https://project-inres.vercel.app/
+> Solidity-based platform Token ERC20 DApp deployed to Sepolia testnet and built a full React DApp that's now live on Vercel.
+
+- Smart contract development  (Solidity + Foundry) 
+- Frontend DApp development (React + TypeScript + Web3)  
+- Web3 architecture and deployment expertise (Vercel hosting)
+- End-to-end project delivery  
+
+---
+
 ### 💰 Foundry Fund Me
 🔗 https://github.com/CristianOrtega2016/foundry-fund-me 
 > Learning project focused on Solidity and smart contract fundamentals
