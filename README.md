@@ -58,7 +58,7 @@ I am currently focused on:
 
 ### 🎲 Platform Token ERC20 (DApp)
 
-🔗 https://github.com/CristianOrtega2016/
+🔗 https://github.com/CristianOrtega2016/erc20-platform-token-dapp.git
 🔗 https://project-inres.vercel.app/
 > Solidity-based platform Token ERC20 DApp deployed to Sepolia testnet and built a full React DApp that's now live on Vercel.
 
