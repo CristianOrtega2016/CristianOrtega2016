@@ -58,8 +58,9 @@ I am currently focused on:
 
 ### 🎲 Platform Token ERC20 (DApp)
 
-🔗 https://github.com/CristianOrtega2016/erc20-platform-token-dapp.git
-🔗 https://project-inres.vercel.app/
+- **GitHub Repository**: https://github.com/CristianOrtega2016/erc20-platform-token-dapp
+- **Live DApp**: https://project-inres.vercel.app
+- **Sepolia Contract**: [0x4bfB347B2D1bbef14cE2f1fbde8B8D707727500D](https://sepolia.etherscan.io/address/0x4bfB347B2D1bbef14cE2f1fbde8B8D707727500D)
 > Solidity-based platform Token ERC20 DApp deployed to Sepolia testnet and built a full React DApp that's now live on Vercel.
 
 - Smart contract development  (Solidity + Foundry) 
