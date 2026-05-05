@@ -67,12 +67,11 @@ I am currently focused on:
 - Frontend DApp development (React + TypeScript + Web3)  
 - Web3 architecture and deployment expertise (Vercel hosting)
 - End-to-end project delivery  
-![DApp_picture](https://drive.google.com/file/d/1_ES2AIwP8uhUOoat1s9UVTjC-hfiGgb_/view?usp=drive_link)
-https://drive.google.com/file/d/1_ES2AIwP8uhUOoat1s9UVTjC-hfiGgb_/view?usp=drivesdk
+![DApp_picture](https://drive.google.com/file/d/1_ES2AIwP8uhUOoat1s9UVTjC-hfiGgb_/view?usp=drivesdk
 
 ---
 
-### 💰 Foundry Fund Me
+### 
 🔗 https://github.com/CristianOrtega2016/foundry-fund-me 
 > Learning project focused on Solidity and smart contract fundamentals
 
